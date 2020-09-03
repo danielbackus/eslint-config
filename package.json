@@ -1,6 +1,6 @@
 {
   "name": "@nosleepnotever/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/danielbackus/eslint-config/issues"
   },
-  "homepage": "https://github.com/danielbackus/eslint-config#readme"
+  "homepage": "https://github.com/danielbackus/eslint-config#readme",
+  "dependencies": {
+    "eslint-config-problems": "^5.0.0"
+  }
 }
