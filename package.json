@@ -1,10 +1,14 @@
 {
-  "name": "eslint-config",
-  "version": "0.1.0",
-  "description": "An eslint config that catches problems in your code, without checking style. For use with prettier.",
+  "name": "@nosleepnotever/eslint-config",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbackus/eslint-config.git"
   },
   "keywords": [
     "eslint",
@@ -17,5 +21,9 @@
     "eslint": "^7.3.0"
   },
   "author": "Daniel Backus <daniel@danielback.us>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbackus/eslint-config/issues"
+  },
+  "homepage": "https://github.com/danielbackus/eslint-config#readme"
 }
